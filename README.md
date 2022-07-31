@@ -26,7 +26,7 @@
 # Find me here 
 [Instagram](https://www.instagram.com/mohammad_0201m/?hl=en) <a href = 'https://www.instagram.com/mohammad_0201m/?hl=en'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> | ​​
 [LinkedIn](https://www.linkedin.com/in/mohammd-moghtadaee/) <a href = 'https://www.linkedin.com/in/mohammd-moghtadaee/'> <img width = '27px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> |​​
-[Telegram](https://t.me/DVMan7) <a href = 'https://t.me/DVMan7'> <img width = '27px' align= 'center' src="https://www.svgrepo.com/show/3109/telegram.svg"/></a> | 
+[Telegram](https://t.me/DVMan7) <a href = 'https://t.me/DVMan7'> <img width = '27px' align= 'center' src="https://www.svgrepo.com/show/299513/telegram.svg"/></a> | 
 
 
 ### I'm glad you visited my GitHub page
